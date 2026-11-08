@@ -28,7 +28,7 @@
 |---|---|---|
 | [**ConsertaJá**](https://github.com/knapicko/FATEC--projeto-integrador) | Aplicativo que conecta clientes a profissionais autônomos · TCC Fatec | 👥 Em equipe |
 | [**Gravoris**](https://github.com/henriqueps-dev/gravoris-v2) | Loja virtual de concessionária desenvolvida em Java | 👥 Em parceria |
-| [**Helios Development**](https://github.com/LucasEiji204/helios-development) | Site institucional de empresa, com páginas de soluções e história, em TypeScript | 👤 Pessoal |
+| [**Helios Development**](https://github.com/LucasEiji204/helios-development) | Site institucional de empresa, com páginas de soluções e história, em Next.js e TypeScript · [🌐 ver site](https://helios-development-six.vercel.app) | 👤 Pessoal |
 
 ### 📜 Certificações
 - Cisco Networking Academy: Introdução à Cybersecurity · Python Essentials 1
