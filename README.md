@@ -28,7 +28,7 @@
 |---|---|---|
 | [**ConsertaJá**](https://github.com/knapicko/FATEC--projeto-integrador) | Aplicativo que conecta clientes a profissionais autônomos · TCC Fatec | 👥 Em equipe |
 | [**Gravoris**](https://github.com/henriqueps-dev/gravoris-v2) | Loja virtual de concessionária desenvolvida em Java | 👥 Em parceria |
-| **EloMaterno** | Plataforma de apoio a mães solo em situação de vulnerabilidade · TCC Etec (2025) | 👥 Em equipe |
+| [**Helios Development**](https://github.com/LucasEiji204/helios-development) | Site institucional de empresa, com páginas de soluções e história, em TypeScript | 👤 Pessoal |
 
 ### 📜 Certificações
 - Cisco Networking Academy: Introdução à Cybersecurity · Python Essentials 1
@@ -37,19 +37,3 @@
 
 ---
 <p align="center"><i>Aberto a oportunidades de estágio. Vamos conversar! 🤝</i></p>
-## Hi there 👋
-
-<!--
-**LucasEiji204/LucasEiji204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
